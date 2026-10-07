@@ -7,6 +7,3 @@ Computer science student at the University of Minnesota, graduating December 202
 
 ## Current focus
 Turning ShelterLink into a useful, zero-cost service: verified resource data, safe location lookup, clear limitations, and tests before public use.
-
-## Background
-I entered tech through Genesys Works and an Optum internship in 2022.
